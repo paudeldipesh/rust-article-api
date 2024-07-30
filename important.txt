@@ -1,0 +1,3 @@
+diesel setup
+diesel print-schema > src/schema.rs
+diesel_ext > src/db_models.rs
